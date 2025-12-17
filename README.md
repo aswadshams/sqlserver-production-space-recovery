@@ -13,7 +13,7 @@ environment using controlled file relocation and a **one-time corrective log shr
 In high-throughput OLTP systems, uncontrolled file growth can silently consume
 disk and threaten availability. This case study documents a **controlled,
 approved, production-safe** remediation that reclaimed ~1TB of space without
-data loss, while restoring predictable growth behavior
+data loss, while restoring predictable growth behavior.
 
 
 ## What this covers
