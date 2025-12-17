@@ -24,3 +24,6 @@ All examples use placeholders. See `DISCLAIMER.md`.
 
 ## Topics
 sqlserver · mssql · dba · production · oltp · maintenance
+
+## Full Tutorial
+➡️ [Production OLTP Space Recovery – Step by Step](docs/space-recovery-production-oltp.md)
